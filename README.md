@@ -1,1 +1,13 @@
 # TIKTOK-bot
+
+CRIEI ESSE BOT PRA AJUDAR A GANHAR SEGUIDORES,VISUALIZAÇOES,LIKES, GRATIS;)
+
+it needs{
+
+chrome drives 
+
+{
+
+
+CRIADOR {LUIS}
+instagram {luis_200s}
